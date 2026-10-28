@@ -36,4 +36,6 @@ Criterios de aceptación:
 
 Criterios de aceptación:
 
-<!-- TODO: escribe al menos 2 criterios con el formato Dado / cuando / entonces -->
+- [] Dado que el visitante se encuentra en la página de información del evento del CDITI, Cuando observa la sección de ubicación, Entonces debe poder ver la dirección completa por texto y un enlace directo a la ubicación en el mapa.
+
+- [] Dado que el visitante está viendo la sección de ubicación en la página del evento, Cuando hace clic en el enlace del mapa, Entonces el sistema debe abrir el mapa interactivo en una nueva pestaña mostrando la ubicación exacta del CDITI.
