@@ -10,6 +10,9 @@ El objetivo de este proyecto es aprender ahi poquito a pcoo
 *   Compatible.
 *   poco a poco pero seguro
 
+## fecha
+28/10/2026
+
 ## Instalación
 
 Para clonar y poner en marcha este proyecto en tu entorno local, ejecuta los siguientes comandos en tu terminal:
@@ -23,3 +26,4 @@ cd tu-repositorio
 
 # Instala las dependencias necesarias
 npm install
+```
