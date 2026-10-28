@@ -116,3 +116,42 @@ section {
 .btn-inscripcion:hover {
   background: #2d8553;
 }
+
+.ubicacion {
+  background: #ffffff;
+  text-align: center;
+}
+
+.ubicacion h2 {
+  font-size: 2rem;
+  color: #0b3d2e;
+  margin-bottom: 1rem;
+}
+
+.info-ubicacion {
+  max-width: 600px;
+  margin: 1.5rem auto;
+  background: #f4f9f5;
+  padding: 1.5rem;
+  border-radius: 6px;
+  border: 1px solid #d0e1d4;
+}
+
+.ubicacion .direccion {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+}
+
+.mapa-contenedor a {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #39a96b;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.mapa-contenedor a:hover {
+  background: #2d8553;
+}
