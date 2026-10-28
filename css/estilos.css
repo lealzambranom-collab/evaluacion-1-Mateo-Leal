@@ -74,3 +74,45 @@ section {
   border-radius: 4px;
 }
 
+.inscripcion {
+  background: #f4f9f5;
+  text-align: center;
+}
+
+.inscripcion h2 {
+  font-size: 2rem;
+  color: #0b3d2e;
+  margin-bottom: 1rem;
+}
+
+.info-inscripcion {
+  max-width: 600px;
+  margin: 1.5rem auto;
+  background: #ffffff;
+  padding: 1.5rem;
+  border-radius: 6px;
+  border: 1px solid #d0e1d4;
+  text-align: left;
+}
+
+.info-inscripcion p {
+  margin-bottom: 0.75rem;
+}
+
+.acciones-inscripcion {
+  margin-top: 1.5rem;
+}
+
+.btn-inscripcion {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #39a96b;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 4px;
+}
+
+.btn-inscripcion:hover {
+  background: #2d8553;
+}
